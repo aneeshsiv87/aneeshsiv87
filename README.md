@@ -1,58 +1,96 @@
-## Hi there 👋
-#  I'm Aneesh Sivan
+# 👋 Hi, I'm Aneesh Sivan
 
-## Senior IT Operations Lead | Technical Support Leader | Infrastructure Specialist
+## Senior IT Operations Lead | Technical Support Leader | Infrastructure & Field Services Specialist
 
-Results-driven IT professional with **11+ years of experience** in enterprise IT support, retail infrastructure, field operations, and service delivery.
+Results-driven IT professional with **11+ years of experience** in enterprise IT support, infrastructure operations, field service management, retail technology environments, and service delivery.
 
-Currently leading field operations for a major retail technology environment, supervising **25 technical engineers** within a **28-member team**, ensuring SLA delivery, escalations management, uptime, and business continuity.
+Currently leading technical field operations in a major retail support environment, managing **25 technical engineers** within a **28-member team**, ensuring SLA compliance, escalations management, uptime, and business continuity.
 
 ---
 
 ## 🏆 Career Highlights
 
 * Delivered **95+ projects and operational initiatives**
-* Supported **2000+ enterprise devices**
-* Managed **150+ weekly incidents** with SLA compliance
-* Recognized with **Lenovo Quarterly Award**
-* Strong experience in retail IT, POS, RFID, networking, endpoints
+* Supported **2000+ enterprise devices** across multiple locations
+* Managed **150+ weekly incidents** while meeting SLA targets
+* Recognized with **Lenovo Quarterly Award – Team Player**
+* Led onboarding, training, and mentoring of engineers
+* Managed **1000+ CCTV cameras** across branch operations
+* Implemented automation and infrastructure improvement projects
 
 ---
 
-## 💼 Core Skills
+## 💼 Core Expertise
 
 * IT Operations Management
+* Technical Support (L1 / L2 / L3)
 * Team Leadership
-* Technical Support L1/L2/L3
 * Microsoft 365
 * SCCM
 * Windows Administration
-* Networking
-* POS / Retail IT
+* Networking (LAN / WAN / VPN)
+* POS / Retail IT Support
+* RFID Systems
+* CCTV / Surveillance Infrastructure
 * Incident Management
+* Problem Management
 * Asset Lifecycle Management
 * Vendor Coordination
-* Training & Mentoring
+* Field Services Management
+* Process Improvement
+* ITIL Service Management
 
 ---
 
-## 🚀 Current Learning
+## 🚀 Featured Projects
+
+### Enterprise Retail IT Operations
+
+Managed multi-site support operations, deployments, rollouts, escalations, incident management, and store technology support.
+
+### CCTV Infrastructure Management
+
+Administered 1000+ IP and non-IP cameras, centralized monitoring systems, vendor coordination, playback support, and uptime assurance.
+
+### Vehicle Weighbridge Security Automation
+
+Implemented integrated camera, PC, printer, and software solution for secure goods movement verification and loss prevention.
+
+### Thermal Access Control Deployment
+
+Installed automated temperature screening access systems during COVID response.
+
+---
+
+## 📚 Certifications
+
+* Introduction to **ITIL® V4**
+* Lenovo Quarterly Award
+* AI Productivity & ChatGPT Workshops
+* Python Using AI Workshop
+* Cloud / Microsoft Learning Certifications
+
+---
+
+## 🌱 Current Learning
 
 * Python for IT Automation
 * PowerShell
 * Azure Fundamentals
 * AWS Fundamentals
 * Operational Dashboards
+* Process Optimization
 
 ---
 
 ## 📂 Featured Repositories
 
-* IT Operations Portfolio
-* Retail IT SOP Library
-* Python IT Automation
-* Field Engineer Training Kit
-* Certifications & Awards
+* it-operations-portfolio
+* retail-it-sop-library
+* python-it-automation
+* field-engineer-training-kit
+* certifications-and-awards
+* executive-it-dashboards
 
 ---
 
@@ -61,17 +99,5 @@ Currently leading field operations for a major retail technology environment, su
 LinkedIn:
 https://www.linkedin.com/in/aneesh-sivan-technical-support-engineer/
 
-<!--
-**aneeshsiv87/aneeshsiv87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email:
+[aneeshsiv94@gmail.com](mailto:aneeshsiv94@gmail.com)
